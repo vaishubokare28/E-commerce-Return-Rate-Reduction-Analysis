@@ -1,4 +1,4 @@
- 🛒 E-commerce Return Rate Reduction Analysis 
+### 🛒 E-commerce Return Rate Reduction Analysis 
 
 This project analyzes product return behavior in an e-commerce setting and builds a predictive model to identify high-risk returns. Using Python for machine learning and Power BI for interactive dashboards, it helps businesses reduce return-related losses and improve decision-making.
 
